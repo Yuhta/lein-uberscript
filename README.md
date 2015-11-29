@@ -1,12 +1,10 @@
 # lein-uberscript
 
-[![Clojars Project](http://clojars.org/lein-uberscript/latest-version.svg)](http://clojars.org/lein-uberscript)
-
 A Leiningen plugin to create standalone script embedded with uberjar.
 
 ## Usage
 
-Add `[lein-uberscript "0.1.0"]` to `:plugins`.
+Add [![Clojars Project](http://clojars.org/lein-uberscript/latest-version.svg)](http://clojars.org/lein-uberscript) to `:plugins`.
 
     $ lein uberscript
 
